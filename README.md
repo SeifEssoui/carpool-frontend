@@ -1,4 +1,4 @@
-# EY Carpool Frontend
+#Carpool Frontend
 
 This repository contains the frontend of the EY Carpooling application, developed using Flutter. The app provides an intuitive and responsive user interface to facilitate carpooling among EY employees, helping to optimize transport efficiency.
 
