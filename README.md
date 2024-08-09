@@ -1,16 +1,19 @@
-# osmflutter
+# EY Carpool Frontend
 
-A new Flutter project.
+This repository contains the frontend of the EY Carpooling application, developed using Flutter. The app provides an intuitive and responsive user interface to facilitate carpooling among EY employees, helping to optimize transport efficiency.
+
+## Features
+- Modern design with Glassmorphism for a sleek, visually appealing user interface.
+- Seamless interaction with backend services for real-time ride and user management.
+- Developed using Flutter, ensuring cross-platform compatibility.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/ey-carpool-frontend.git
